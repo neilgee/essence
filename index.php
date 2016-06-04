@@ -77,12 +77,15 @@ var affwp_scripts = {"ajaxurl":"http:\/\/brett-barclay.preview85.rmkr.net\/admin
 <link rel="stylesheet" id="dashicons-css" href="http://brett-barclay.preview85.rmkr.net/wp-includes/css/dashicons.min.css?ver=4.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="ionicons-css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=2.0.1" type="text/css" media="all">
 <link rel='stylesheet' id='local-css'  href='local.css' type='text/css' media='all' />
+<link rel='stylesheet' id='local-css'  href='https://github.com/neilgee/essence/blob/master/local.css' type='text/css' media='all' />
+
+
+
 <script src="https://use.fontawesome.com/c0545a15bc.js"></script>
 
 <style>
 
 </style><!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<script src="https://use.typekit.net/xhn5rrn.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script><link rel="Shortcut Icon" href="//brett-barclay.preview85.rmkr.net/wp-content/uploads/2016/04/favicon.png" type="image/x-icon" />
 <style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #00a99d !important; border-radius: 3px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 30px; padding: 15px; }  .simple-social-icons ul li a:hover { background-color: #00baad !important; border-color: #ffffff !important; color: #ffffff !important; }</style><style type="text/css">
 </style></head>
@@ -162,7 +165,7 @@ var affwp_scripts = {"ajaxurl":"http:\/\/brett-barclay.preview85.rmkr.net\/admin
 <li>Lay the right foundation to a fruitful life of service and contribution for God’s kingdom.</li>
 </div>
 </ul>
-<p style="text-align:center;">And a whole lot more.</p>
+<h3 style="text-align:center;">And a whole lot more.</h3>
 			</div>
 		</div>
 		</div>			</div>
@@ -386,6 +389,7 @@ var affwp_scripts = {"ajaxurl":"http:\/\/brett-barclay.preview85.rmkr.net\/admin
 				<div class="full-width first">		<div class="module copy">
 			<div class="module-wrap">
 				<h3>30-day, 100% Money Back Guarantee</h3>
+<p><img src="http://brett-barclay.preview85.rmkr.net/wp-content/uploads/2016/05/guaranteed-color.png" alt="guaranteed-color" width="200" height="187" class="alignright size-full wp-image-4778" /></p>
 <p>I’m pleased to offer a 100% money back guarantee on this course.</p>
 <p>If you purchase the course (whatever the package) and it’s not what you thought it would be or hasn’t helped you in your walk with God, we provide an unconditional 30-day 100% money back guarantee.</p>
 <p>I don’t want you to pay for something that doesn’t help you understand Jesus and what He’s done.</p>
@@ -428,6 +432,7 @@ var affwp_scripts = {"ajaxurl":"http:\/\/brett-barclay.preview85.rmkr.net\/admin
 			<div class="module-wrap">
 				<h3>It’s Time To Be Transformed</h3>
 <p>By the way, the truths shared in Essence | 7 Indispensable Lessons To Thrive In Your Identity And Freedom In Christ have triggered radical transformation in many believers. It has ushered in a new and fresh season of peace, joy and fulfillment in many Christian’s walk with God. It will help you to stop working for God’s approval, end guilt and condemnation, flourish in God’s favor, and start enjoying your walk with Him.</p>
+<p><a href="#section_pricing"><button>Get Essence Now</button></a></p>
 			</div>
 		</div>
 		</div>			</div>
